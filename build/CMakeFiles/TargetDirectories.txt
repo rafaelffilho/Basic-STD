@@ -1,5 +1,0 @@
-/home/anaboth/Programming/bs/build/CMakeFiles/edit_cache.dir
-/home/anaboth/Programming/bs/build/CMakeFiles/main.dir
-/home/anaboth/Programming/bs/build/CMakeFiles/rebuild_cache.dir
-/home/anaboth/Programming/bs/build/CMakeFiles/string.dir
-/home/anaboth/Programming/bs/build/CMakeFiles/vector.dir
